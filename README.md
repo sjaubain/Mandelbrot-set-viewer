@@ -1,3 +1,3 @@
 # Mandelbrot-set-viewer
 
-![](./Mandelbrot/img/screens.png)
+![](./MandelBrot/img/screens.png)
